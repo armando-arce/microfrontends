@@ -1,10 +1,10 @@
 data = [
 	{
 		"_id": 1,
-		"author": "Abraham Silberschatz",
-		"nationality": "Israelis / American",
-		"birth_year": 1952,
-		"fields": "Database Systems, Operating Systems",
+		"publisher": "John Wiley & Sons",
+		"country": "United States",
+		"founded": 1807,
+		"genere": "Academic",
 		"books": [
 			{
 				"book_id": 1,
@@ -18,10 +18,10 @@ data = [
 	},
 	{
 		"_id": 2,
-		"author": "Andrew S. Tanenbaum",
-		"nationality": "Dutch / American",
-		"birth_year": 1944,
-		"fields": "Distributed computing, Operating Systems",
+		"publisher": "Pearson Education",
+		"country": "United Kingdom",
+		"founded": 1844,
+		"genere": "Education",
 		"books": [
 			{
 				"book_id": 3,
